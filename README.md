@@ -8,29 +8,29 @@ Link to live app with updates: https://nfl-player-list-hs.herokuapp.com/
 
 # Filter by player name.
 
-![Screenshot](./assets/byname.png)
+![Screenshot](./screenshots/byname.png)
 
 
 # Sort by weight
 
-![Screenshot](./assets/weight.png)
+![Screenshot](./screenshots/weight.png)
 
 
 # Sort by height
 
-![Screenshot](./assets/height.png)
+![Screenshot](./screenshots/height.png)
 
 # Sort alphabetically
 
-![Screenshot](./assets/alphabetically.png)
+![Screenshot](./screenshots/alphabetically.png)
 
 #Sort by average pick
 
-![Screenshot](./assets/averagepick.png)
+![Screenshot](./screenshots/averagepick.png)
 
 #Sort by position
 
-![Screenshot](./assets/byqb.png)
+![Screenshot](./screenshots/byqb.png)
 
 
-![Screenshot](./assets/bywr.png)
+![Screenshot](./screenshots/bywr.png)
