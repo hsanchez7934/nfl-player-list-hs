@@ -9,6 +9,7 @@ const PlayerRow = ({ player }) => {
       <td>{player.team}</td>
       <td>{player.height}</td>
       <td>{player.weight}</td>
+      <td>{player.averagePick}</td>
     </tr>
   )
 }
