@@ -18,7 +18,7 @@ Link to live app with updates: https://nfl-player-list-hs.herokuapp.com/
 
 # Sort by weight
 
-![Screenshot](./screenshots/weight.png)
+![Screenshot](./screenshots/byweight.png)
 
 
 
@@ -37,6 +37,6 @@ Link to live app with updates: https://nfl-player-list-hs.herokuapp.com/
 
 # Sort by position
 
-![Screenshot](./screenshots/bywr.png)
+![Screenshot](./screenshots/wr.png)
 
 ![Screenshot](./screenshots/byqb.png)
