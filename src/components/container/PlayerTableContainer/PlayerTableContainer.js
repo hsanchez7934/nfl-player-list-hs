@@ -102,7 +102,6 @@ class PlayerTableContainer extends Component {
           <PlayerTableFilters
             filterByName={this.filterByName}
             filterByPosition={this.filterByPosition}
-            qb={this.state.qb}
           />
           <PlayerTable
             players={filteredPlayers}
