@@ -24,11 +24,11 @@ Link to live app with updates: https://nfl-player-list-hs.herokuapp.com/
 
 ![Screenshot](./screenshots/alphabetically.png)
 
-#Sort by average pick
+# Sort by average pick
 
 ![Screenshot](./screenshots/averagepick.png)
 
-#Sort by position
+# Sort by position
 
 ![Screenshot](./screenshots/byqb.png)
 
