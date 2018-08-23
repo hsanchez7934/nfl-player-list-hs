@@ -1,9 +1,11 @@
-##Update code
+# Updated code
 
 Updated code with added features.
 
-Features added:
+# Features added:
 
-Filter by player name
+Filter by player name.
+
 Sort by weight, height, average pick, and alphabetically.
-Sort by position; QB, WR, RB, and TE
+
+Sort by position; QB, WR, RB, and TE.
